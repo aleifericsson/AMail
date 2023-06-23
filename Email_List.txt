@@ -1,0 +1,48 @@
+Test
+0
+The format is name, rec, content, sender, date, id
+1
+2001-1-1
+0
+
+actual email this time
+0
+if you read this then congrats! you have just received the FIRST EMAIL!!
+1
+2021-8-20
+1
+
+i am a hacker
+0,1
+i am a hacker i will destroy you be warned.
+2
+2021-8-20
+2
+
+i don't think so man
+2
+bro this is python what would hacking do to you??
+1
+2021-8-21
+3
+
+youre right
+1
+my bad
+2
+2021-8-22
+4
+
+i am the 1
+1
+i am the real number 1 give the code number to me!!!!
+3
+2021-08-31
+5
+
+hi
+1
+hdasgkjvgksau
+4
+2021-09-09
+6
